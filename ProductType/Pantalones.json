@@ -1,0 +1,33 @@
+{
+    "type": "Pantalones",
+    "categoryId": "MLA109282",
+    "title": 0,
+    "price": 10,
+    "available_quantity": 9,
+    "description": 12,
+    "accepts_mercadopago": true,
+    "pictures": 7,
+    "attributes": {
+        "ITEM_CONDITION":11,
+        "BRAND":22,
+        "GENDER":23,
+        "MAIN_MATERIAL":24,
+        "PANT_TYPE":25,
+        "MODEL":26,
+        "PANT_RISE":27,
+        "PANT_CUT":28,
+        "RELEASE_SEASON":29,
+        "RELEASE_YEAR":30,
+        "POCKETS_NUMBER":31,
+        "WITH_ADJUSTABLE_CUFFS":32
+    },
+    "variations": {
+        "combionation": {
+            "COLOR": 3,
+            "SIZE": 6
+        },
+        "attributes": {
+            "SELLER_SKU": 8
+        }
+    }
+  }

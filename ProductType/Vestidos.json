@@ -1,0 +1,30 @@
+{
+    "type": "Vestidos",
+    "categoryId": "MLA373770",
+    "title": 0,
+    "price": 10,
+    "available_quantity": 8,
+    "description": 12,
+    "accepts_mercadopago": true,
+    "pictures": 7,
+    "attributes": {
+        "BRAND":22,
+        "MODEL":23,
+        "GENDER":24,
+        "MAIN_MATERIAL":25,
+        "FABRIC_TYPE":26,
+        "OCCASIONS":27,
+        "LENGTH_TYPE":28,
+        "SLEEVE_TYPE":29,
+        "IS_SPORTIVE":30
+    },
+    "variations": {
+        "combionation": {
+            "COLOR": 3,
+            "SIZE": 6
+        },
+        "attributes": {
+            "SELLER_SKU": 8
+        }
+    }
+  }

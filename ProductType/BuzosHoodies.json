@@ -1,0 +1,32 @@
+{
+    "type": "Buzos y Hoodies",
+    "categoryId": "MLA109085",
+    "title": 0,
+    "price": 9,
+    "available_quantity": 8,
+    "description": 11,
+    "accepts_mercadopago": true,
+    "pictures": 6,
+    "attributes": {
+        "BRAND":21,
+        "MODEL":22,
+        "GENDER":23,
+        "GARMENT_TYPE":24,
+        "IS_SPORTIVE":25,
+        "WITH_HOOD":26,
+        "RECOMMENDED_USES":27,
+        "FABRIC_TYPE":28,
+        "MAIN_MATERIAL":29,
+        "COMPOSITION":30,
+        "IS_OVERSIZE":31
+    },
+    "variations": {
+        "combionation": {
+            "COLOR": 3,
+            "SIZE": 5
+        },
+        "attributes": {
+            "SELLER_SKU": 7
+        }
+    }
+  }
